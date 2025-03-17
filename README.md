@@ -8,7 +8,7 @@ Style Description: A simple Volare-based style from MYBB.
 
 Any bugs report here in the topic or [HERE](https://phpbb-bg.info/forums/viewforum.php?f=80).
 
-phpBB Version: 3.3.11
+phpBB Version: 3.3.14
 
 [Offical validated by phpBB Validation Team](https://www.phpbb.com/community/viewtopic.php?p=15972004#p15972004)
 
